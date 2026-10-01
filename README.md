@@ -25,7 +25,7 @@ Hello! 👋 I am a passionate frontend developer focused on mastering web develo
 
 ## 🚀 Links & Demo
 
-- **Live Site:** [View Live Demo](https://your-username.github.io/bento-grid/)
+- **Live Site:** [View Live Demo](https://driamahdi0-ops.github.io/bento-grid-name/)
 - **Frontend Mentor Solution:** [View Solution](https://www.frontendmentor.io/solutions/...)
 
 ---
